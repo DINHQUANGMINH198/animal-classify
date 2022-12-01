@@ -1,0 +1,1 @@
+{"seed": 2020, "batch_size": 14, "epochs": 200, "lr": 0.001, "weight_decay": 0.0, "optimizer": "sgdm", "input_size": 224, "display_images": false, "pretrained": true, "save": true, "device": "cpu", "t_start": "20221201_002531", "checkpoint": "models/pt_20221201_002531_0.997485.pth"}
